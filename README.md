@@ -1,0 +1,2 @@
+# NinePatchBlackEdgeConversionTool
+c#程序将NinePatch图片从有黑边转换为无黑边，也可以从无黑边转换为有黑边
